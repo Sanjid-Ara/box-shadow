@@ -1,0 +1,56 @@
+    * {
+        padding: 0%;
+        margin: 0%;
+    }
+    
+    body {
+        background-color: hotpink;
+    }
+    
+    h1 {
+        background-color: seagreen;
+        color: black;
+        text-align: center;
+        font-size: 70px;
+        text-shadow: -3px -4px yellow;
+    }
+    
+    .class-1 {
+        /* background-color: wheat; */
+        display: flex;
+        flex-direction: row;
+    }
+    
+    img {
+        box-shadow: 50px -10px 10px 10px black;
+        margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    h2 {
+        background-color: rgb(49, 4, 49);
+        color: rgb(182, 7, 66);
+        text-align: center;
+        font-size: 60px;
+        text-shadow: -2px -3px white;
+        padding: 10px;
+    }
+    
+    .class-2 {
+        /* background-color: wheat; */
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .class-3 {
+        /* background-color: wheat; */
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .class-4 {
+        /* background-color: wheat; */
+        display: flex;
+        flex-direction: row;
+    }
